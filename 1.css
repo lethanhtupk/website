@@ -1,0 +1,93 @@
+*{margin:0;padding:0; }
+
+h2#contact {
+    margin-top: 137px;
+}
+
+.picture:hover .color {
+    opacity: 1;
+    transition: 0.5s;
+}
+.color {
+    background-color: rgba(112, 106, 221, 0.61);
+    width: 476px;
+    height: 298px;
+    position: absolute;
+    top: 0px;
+    opacity: 0;
+}
+
+h2#myproject {
+    padding-top: 69px;
+}
+
+.icon {
+    margin-bottom: 80px;
+    margin-top: 80px;
+}
+ .aboutme {
+ 	background-image: url("images/header1.jpg");
+ 	color: white;
+padding-bottom: 50px;
+padding-top: 50px;
+text-shadow: 1px 1px black;
+ }
+.navbar {
+	margin-bottom: 0px;
+}
+.blue {
+	background-color: #67BCDB;
+	padding-bottom: 100px;
+	padding-top: 100px;
+}
+#myskills {
+	margin-top: 100px;
+}
+*{margin:0;padding:0; }
+
+h2#contact {
+    margin-top: 137px;
+}
+
+.picture:hover .color {
+    opacity: 1;
+    transition: 0.5s;
+}
+.color {
+    background-color: rgba(112, 106, 221, 0.61);
+    width: 476px;
+    height: 298px;
+    position: absolute;
+    top: 0px;
+    opacity: 0;
+}
+
+h2#myproject {
+    padding-top: 69px;
+}
+
+.icon {
+    margin-bottom: 80px;
+    margin-top: 80px;
+}
+ .aboutme {
+ 	background-image: url("images/header1.jpg");
+ 	color: white;
+padding-bottom: 50px;
+padding-top: 50px;
+text-shadow: 1px 1px black;
+ }
+.navbar {
+	margin-bottom: 0px;
+}
+.blue {
+	background-color: #67BCDB;
+	padding-bottom: 100px;
+	padding-top: 100px;
+}
+#myskills {
+	margin-top: 100px;
+}
+.btn.btn-primary {
+    padding: 10px;
+}
